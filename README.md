@@ -20,3 +20,13 @@ Curso Spring Boot Alura 💻
 <h1 align="center">
 Sobre o Desafio 📝
 </h1>
+
+- O desafio apresenta uma implementação de aplicação para consultar o valor médio de veículos (carros, motos ou caminhões) de acordo com a tabela FIPE, que pode ser acessada através [desse site](https://veiculos.fipe.org.br/).
+  
+<div>
+<h2> Funcionalidades ✅ </h2>
+
+- O usuário é capaz de escolher qual tipo de veículo deseja acessar as informações, sendo carros, motos ou caminhões.
+- Após escolher o tipo de veículo, deverá selecionar a MARCA, MODELO e ANO para a consulta.
+- Por fim, é exibido a descrição com a avaliação do veículo com o ano escolhido.
+</div>
